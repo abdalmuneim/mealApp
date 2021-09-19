@@ -1,4 +1,4 @@
-# meal_app1
+# meal_app
 
 A new Flutter application.
 
