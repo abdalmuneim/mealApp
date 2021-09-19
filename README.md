@@ -2,10 +2,10 @@
 ![Asset 7](https://user-images.githubusercontent.com/89417867/133942096-63414df6-69cb-4dd6-bd0d-133cfe29e912.png)
 
 ## Installation
-$ flutter pub get
+    flutter pub get
 
 ## Usage
-$ flutter run
+    flutter run
 
 
 # meal_app
