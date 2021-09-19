@@ -1,5 +1,5 @@
+![Asset 8](https://user-images.githubusercontent.com/89417867/133944050-ef583c6d-5843-4d38-b99e-a9a71fac3d6f.png)
 
-![Asset 7](https://user-images.githubusercontent.com/89417867/133942096-63414df6-69cb-4dd6-bd0d-133cfe29e912.png)
 
 ## Installation
     flutter pub get
